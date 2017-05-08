@@ -21,6 +21,12 @@ body {
   margin: 0;
 }
 
+.importante {
+  font-size: 25px;
+  /*margin-bottom: 20px;
+  margin-top: 15px;*/
+  color:red;
+}
 
 table {
   width: 100%;
