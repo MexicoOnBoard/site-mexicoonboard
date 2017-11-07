@@ -21,6 +21,11 @@ body {
   margin: 0;
 }
 
+.linkmob {
+  color:blue;
+  text-decoration: underline;
+}
+
 .importante {
   font-size: 25px;
   /*margin-bottom: 20px;
