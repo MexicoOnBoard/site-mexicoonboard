@@ -23,7 +23,6 @@ body {
 
 .linkmob {
   color:blue;
-  text-decoration: underline;
 }
 
 .importante {
@@ -179,7 +178,7 @@ input:focus, textarea:focus {
 
 a {
   color: white;
-  text-decoration: none;
+/*  text-decoration: none;*/
 }
 
 .logotipo {
